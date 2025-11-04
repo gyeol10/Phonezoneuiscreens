@@ -22,22 +22,22 @@ const RESOURCE_MAP: Record<Product, ResourceInfo> = {
   jeans: {
     name: '물 8,000L',
     icon: 'water',
-    audioFile: 'https://drive.google.com/uc?export=download&id=1PY5WKGFbvoqFu0ZBohU0kCIpya7IYeOH', // 물2.m4a
+    audioFile: 'https://cdn.jsdelivr.net/gh/gyeol10/Phonezoneuiscreens/물2.mp3',
   },
   smartphone: {
     name: '금속 광석 34kg',
     icon: 'metal',
-    audioFile: 'https://drive.google.com/uc?export=download&id=1eEgIMhCrROaIQ_NXbEujtP1SyyV9lcbJ', // 금속1.m4a
+    audioFile: 'https://cdn.jsdelivr.net/gh/gyeol10/Phonezoneuiscreens/금속1.mp3',
   },
   cosmetics: {
     name: '플라스틱 (재활용 9%)', // 스크립트 내용 반영
     icon: 'plastic',
-    audioFile: 'https://drive.google.com/uc?export=download&id=1P1Im4aupep_EVSZBK36mZ1bJfrU5D561', // 플라스틱1.m4a
+    audioFile: 'https://cdn.jsdelivr.net/gh/gyeol10/Phonezoneuiscreens/플라스틱1.mp3',
   },
   album: {
     name: '나무 916,991그루', // 스크립트 내용 반영
     icon: 'tree',
-    audioFile: 'https://drive.google.com/uc?export=download&id=16lTw1FQXfJo3Icriw3L4Vrxxa0LcmEKE', // 나무2.m4a
+    audioFile: 'https://cdn.jsdelivr.net/gh/gyeol10/Phonezoneuiscreens/나무2.mp3',
   },
 };
 
